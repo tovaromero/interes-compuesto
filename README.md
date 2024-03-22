@@ -9,7 +9,7 @@ C : el dinero que se ingresa para duplicarlo
 
  variables prestablecidas
 
-n : la cantidad de meses que se usaran inican sinedo 0
+n : la cantidad de meses que se usaran inician siendo 0
 
 d : lo que vamos a usar para para el programa cuando C sea el doble
 
